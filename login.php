@@ -20,7 +20,7 @@ if ($_SERVER['REQUEST_METHOD' ] === ' POST') {
     body {
         margin: 0;
         padding: 0;
-        background-color:1980BA;
+        background: #1980ba;
         font-family: Arial, sans-serif;
     }
     .container {
